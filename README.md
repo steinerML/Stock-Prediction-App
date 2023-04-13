@@ -2,7 +2,7 @@
 Stock Prediction App (Python + Streamlit) - Small app that correlates money supply metrics w/ US stock indexes
 This is a personal project that tries to find a correlation between the three 
 main money supply indicators namely M1, M2 and M3 published by The Federal Reserve.
-Berkshire Hathaway Inc. (BRK-B)","S&P 500 (^GSPC)", "NASDAQ Composite (^IXIC)",
+These are the tickers used: Berkshire Hathaway Inc. (BRK-B)","S&P 500 (^GSPC)", "NASDAQ Composite (^IXIC)",
 "Russell 2000 (^RUT).
 
 <br>Federal Reserve Data Source : https://www.federalreserve.gov/releases/h6/current/default.htm</br>
