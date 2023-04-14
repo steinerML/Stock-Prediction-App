@@ -7,14 +7,18 @@ These are the tickers used: Berkshire Hathaway Inc. (BRK-B)","S&P 500 (^GSPC)", 
 
 <br>Federal Reserve Data Source : https://www.federalreserve.gov/releases/h6/current/default.htm</br>
 
-## Getting Started
-I would recommend to update ALL imports, just in case there is something outdated. In my case I got several error messages and solved them by updating several libraries.
-
 ## Prerequisites
 Python 3.8 is fine, even though I used Python 3.10.
+I would recommend to update ALL imports, just in case there is something outdated. 
+It happened to me that I got several error messages due to outdated libraries and fixed it by updating several libraries.
 
-npm
-npm install npm@latest -g
+In my case:
+```pip install --upgrade streamlit
+pip install --upgrade yfinance
+pip install --upgrade prophet
+pip install --upgrade plotly
+```
+
 ## Installation
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
@@ -66,7 +70,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 ## Contact
 Your Name - @your_twitter - email@example.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: [https://github.com/steinerML/Stock-Prediction-App]
 
 (back to top)
 
