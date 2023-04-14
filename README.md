@@ -8,10 +8,10 @@ These are the tickers used: Berkshire Hathaway Inc. (BRK-B)","S&P 500 (^GSPC)", 
 <br>Federal Reserve Data Source : https://www.federalreserve.gov/releases/h6/current/default.htm</br>
 
 ## Getting Started
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+I would recommend to update ALL imports, just in case there is something outdated. In my case I got several error messages and solved them by updating several libraries.
 
 ## Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
+Python 3.8 is fine, even though I used Python 3.10.
 
 npm
 npm install npm@latest -g
